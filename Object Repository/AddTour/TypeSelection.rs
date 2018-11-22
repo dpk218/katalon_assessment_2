@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>TypeSelection</name>
+   <tag></tag>
+   <elementGuidId>2c255c61-6e18-4039-a52f-8dfb6f1bb235</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//li/div[@class=&quot;select2-result-label&quot;][text()='${type}']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//li/div[@class=&quot;select2-result-label&quot;][text()='${type}']</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath.</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;s2id_autogen11&quot;]/a/span[1]</value>
+   </webElementProperties>
+</WebElementEntity>

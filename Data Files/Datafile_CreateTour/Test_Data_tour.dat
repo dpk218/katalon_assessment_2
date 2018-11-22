@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Test_Data_tour</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>0bee2cdc-11d8-4f2e-8587-4c6285fcdb37</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>Humanoid 1 20 2 30 1 10 5 10 11 Family</data>
+   <data>null null null null null null null null null null null</data>
+   <data>null null null null null null null null null null null</data>
+   <data>null null null null null null null null null null null</data>
+   <data>null null null null null null null null null null null</data>
+   <data>null null null null null null null null null null null</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>Tour Name</name>
+      <size>6</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>Adults Quantity</name>
+      <size>6</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>Adults Price</name>
+      <size>6</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>3</columnIndex>
+      <name>Child Quantity</name>
+      <size>6</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>4</columnIndex>
+      <name>Child Price</name>
+      <size>6</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>5</columnIndex>
+      <name>Infant Quantity</name>
+      <size>6</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>6</columnIndex>
+      <name>Infant Price</name>
+      <size>6</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>7</columnIndex>
+      <name>Stars</name>
+      <size>6</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>8</columnIndex>
+      <name>Total Days</name>
+      <size>6</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>9</columnIndex>
+      <name>Total Nights</name>
+      <size>6</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>10</columnIndex>
+      <name>Tour Type</name>
+      <size>6</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

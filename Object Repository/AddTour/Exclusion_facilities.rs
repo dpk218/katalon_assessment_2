@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Exclusion_facilities</name>
+   <tag></tag>
+   <elementGuidId>612ac6b4-986d-429e-950e-ebd3d5b9a144</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id=&quot;EXCLUSIONS&quot;]//*[contains(text(),&quot;${excludefacilities}&quot;)]</value>
+   </webElementProperties>
+</WebElementEntity>

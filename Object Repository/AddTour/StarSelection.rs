@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>StarSelection</name>
+   <tag></tag>
+   <elementGuidId>7ccd8fd9-8937-432b-90af-83d81062e36a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;GENERAL&quot;]/div[6]/div/select/option[7]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;GENERAL&quot;]/div[6]/div/select/option[7]</value>
+   </webElementProperties>
+</WebElementEntity>

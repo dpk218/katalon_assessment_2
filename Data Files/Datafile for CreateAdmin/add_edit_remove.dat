@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>add_edit_remove</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>d81125f2-c01f-49ea-912e-1fb2c1e7d1ad</dataFileGUID>
+   <dataSourceUrl>jdbc:mysql://10.10.0.143:3306/katalon_dpk</dataSourceUrl>
+   <driver>DBData</driver>
+   <isInternalPath>false</isInternalPath>
+   <password>aW5hcHAyLjA=</password>
+   <query>SELECT *FROM permission</query>
+   <secureUserAccount>true</secureUserAccount>
+   <sheetName></sheetName>
+   <user>root</user>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

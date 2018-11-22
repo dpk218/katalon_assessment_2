@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_india</name>
+   <tag></tag>
+   <elementGuidId>3b709fa4-58c7-4c38-912a-e16086764632</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath.</name>
+      <type>Main</type>
+      <value>//div[@id=&quot;select2-drop&quot;]//ul//li//div[contains(text(),&quot;${Country}&quot;)]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;content&quot;]/form/div/div[2]/div/div[6]/div/select/option[80]</value>
+   </webElementProperties>
+</WebElementEntity>
